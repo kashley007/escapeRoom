@@ -1,4 +1,4 @@
-#ual Studio 2015 user specific files
+# Visual Studio 2015 user specific files
 .vs/
 # Compiled Object files
 *.slo
@@ -47,7 +47,5 @@ Saved/*
 Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
-# Starter Content
+#Content Starter Files
 /Content/StarterContent/
-#xworkspace
-*.xcworkspace
